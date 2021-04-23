@@ -1,0 +1,18 @@
+{
+  "name": "@zingle/authzd-theme",
+  "version": "0.0.1",
+  "description": "theme assets for authzd server",
+  "directories": {
+    "pub": "pub"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Zingle/authzd-theme.git"
+  },
+  "author": "Richard Remer <reanjr@gmail.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Zingle/authzd-theme/issues"
+  },
+  "homepage": "https://github.com/Zingle/authzd-theme#readme"
+}
